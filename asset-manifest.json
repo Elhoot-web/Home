@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Home/static/css/main.6bdafc71.css",
+    "main.js": "/Home/static/js/main.b8f86276.js",
+    "static/js/453.cc683603.chunk.js": "/Home/static/js/453.cc683603.chunk.js",
+    "static/media/Elhoot-cv.pdf": "/Home/static/media/Elhoot-cv.d3e710d3da7c54325186.pdf",
+    "static/media/photo2.jpg": "/Home/static/media/photo2.bbdb61719b3fb0e004f3.jpg",
+    "static/media/ph.jpg": "/Home/static/media/ph.943d22e45745e4367bfe.jpg",
+    "static/media/testimonial3.png": "/Home/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Home/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Home/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Home/index.html",
+    "main.6bdafc71.css.map": "/Home/static/css/main.6bdafc71.css.map",
+    "main.b8f86276.js.map": "/Home/static/js/main.b8f86276.js.map",
+    "453.cc683603.chunk.js.map": "/Home/static/js/453.cc683603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bdafc71.css",
+    "static/js/main.b8f86276.js"
+  ]
+}
